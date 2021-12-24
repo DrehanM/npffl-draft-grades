@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup, Comment
-from bs4.element import NavigableString, Tag
+from bs4.element import Tag
+from draft_types import DraftPick, NFLPlayer
 
 def get_draft_data(html_file):
     contents = open(html_file).read()
@@ -22,7 +23,11 @@ def get_draft_pick_list_from(parsed_html):
         row = raw_block.find_next_sibling("tr")
         if type(row) == Tag:
             draft_pick = extract_draft_pick_data_from(row)
-            draft_picks.append(draft_pick)
+            
+            # Prevent duplicates
+            if draft_pick.number >= len(draft_picks):
+                draft_picks.append(draft_pick)
+                
     return draft_picks
     
 
@@ -39,7 +44,7 @@ def extract_draft_pick_data_from(row):
     player_name = player_data.find_all(text=True, recursive=False)[0].strip()
     player_position, player_nfl_team = player_data.find_all("span")[0].get_text().split(", ")
     
-    return [int(pick_num), str(fantasy_team), (str(player_name), str(player_position), str(player_nfl_team))]
+    return DraftPick(int(pick_num), str(fantasy_team), NFLPlayer(str(player_name), str(player_position), str(player_nfl_team)))
 
 
 
