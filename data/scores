@@ -1,0 +1,1392 @@
+{
+    "The Indian Diesel": {
+        "sum": -257,
+        "avg": -16.0625,
+        "max": 10,
+        "min": -130,
+        "number of players on IR": 2,
+        "sum of healthy players": -225,
+        "avg of healthy players": -16.071428571428573,
+        "picks": [
+            {
+                "player": "Christian McCaffrey",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 1,
+                "current_position_rank": 30,
+                "differential": -29
+            },
+            {
+                "player": "DK Metcalf",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 7,
+                "current_position_rank": 20,
+                "differential": -13
+            },
+            {
+                "player": "James Robinson",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 13,
+                "current_position_rank": 17,
+                "differential": -4
+            },
+            {
+                "player": "Adam Thielen",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 15,
+                "current_position_rank": 19,
+                "differential": -4
+            },
+            {
+                "player": "Josh Allen",
+                "injury_status": "ACTIVE",
+                "picking_team": "The Indian Diesel",
+                "draft_position_rank": 2,
+                "current_position_rank": 1,
+                "differential": -4
+            },
+            {
+                "player": "Brandon Aiyuk",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 23,
+                "current_position_rank": 34,
+                "differential": -11
+            },
+            {
+                "player": "T.J. Hockenson",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 6,
+                "current_position_rank": 9,
+                "differential": -3
+            },
+            {
+                "player": "Marvin Jones Jr.",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 33,
+                "current_position_rank": 42,
+                "differential": -9
+            },
+            {
+                "player": "Sony Michel",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 30,
+                "current_position_rank": 41,
+                "differential": -11
+            },
+            {
+                "player": "Curtis Samuel",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 45,
+                "current_position_rank": 175,
+                "differential": -130
+            },
+            {
+                "player": "Buccaneers D/ST",
+                "picking_team": "The Indian Diesel",
+                "injury_status": [],
+                "draft_position_rank": 1,
+                "current_position_rank": 5,
+                "differential": -4
+            },
+            {
+                "player": "David Johnson",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 41,
+                "current_position_rank": 58,
+                "differential": -17
+            },
+            {
+                "player": "Washington D/ST",
+                "picking_team": "The Indian Diesel",
+                "injury_status": [],
+                "draft_position_rank": 4,
+                "current_position_rank": 25,
+                "differential": -21
+            },
+            {
+                "player": "Matt Gay",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 5,
+                "current_position_rank": 2,
+                "differential": 3
+            },
+            {
+                "player": "Austin Hooper",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 14,
+                "current_position_rank": 24,
+                "differential": -10
+            },
+            {
+                "player": "Russell Gage",
+                "picking_team": "The Indian Diesel",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 59,
+                "current_position_rank": 49,
+                "differential": 10
+            }
+        ]
+    },
+    "Funding ScLaurin": {
+        "sum": -65,
+        "avg": -4.0625,
+        "max": 30,
+        "min": -28,
+        "number of players on IR": 3,
+        "sum of healthy players": -2,
+        "avg of healthy players": -0.15384615384615385,
+        "picks": [
+            {
+                "player": "Alvin Kamara",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 2,
+                "current_position_rank": 13,
+                "differential": -11
+            },
+            {
+                "player": "Justin Jefferson",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 6,
+                "current_position_rank": 3,
+                "differential": 3
+            },
+            {
+                "player": "Terry McLaurin",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 8,
+                "current_position_rank": 23,
+                "differential": -15
+            },
+            {
+                "player": "Josh Jacobs",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 21,
+                "current_position_rank": 19,
+                "differential": 2
+            },
+            {
+                "player": "Cooper Kupp",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 16,
+                "current_position_rank": 1,
+                "differential": 15
+            },
+            {
+                "player": "Myles Gaskin",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 24,
+                "current_position_rank": 21,
+                "differential": 3
+            },
+            {
+                "player": "Aaron Rodgers",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 9,
+                "current_position_rank": 7,
+                "differential": 2
+            },
+            {
+                "player": "Laviska Shenault Jr.",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "OUT",
+                "draft_position_rank": 32,
+                "current_position_rank": 54,
+                "differential": -22
+            },
+            {
+                "player": "Corey Davis",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 34,
+                "current_position_rank": 50,
+                "differential": -16
+            },
+            {
+                "player": "Marquise Brown",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 44,
+                "current_position_rank": 14,
+                "differential": 30
+            },
+            {
+                "player": "Tyler Higbee",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 10,
+                "current_position_rank": 19,
+                "differential": -9
+            },
+            {
+                "player": "Robert Tonyan",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 12,
+                "current_position_rank": 40,
+                "differential": -28
+            },
+            {
+                "player": "Jakobi Meyers",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 52,
+                "current_position_rank": 40,
+                "differential": 12
+            },
+            {
+                "player": "Justin Fields",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 13,
+                "current_position_rank": 29,
+                "differential": -16
+            },
+            {
+                "player": "Saints D/ST",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": [],
+                "draft_position_rank": 10,
+                "current_position_rank": 6,
+                "differential": 4
+            },
+            {
+                "player": "Rodrigo Blankenship",
+                "picking_team": "Funding ScLaurin",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 12,
+                "current_position_rank": 31,
+                "differential": -19
+            }
+        ]
+    },
+    "Team Free AB": {
+        "sum": -257,
+        "avg": -16.0625,
+        "max": 24,
+        "min": -104,
+        "number of players on IR": 2,
+        "sum of healthy players": -101,
+        "avg of healthy players": -7.214285714285714,
+        "picks": [
+            {
+                "player": "Dalvin Cook",
+                "picking_team": "Team Free AB",
+                "injury_status": "OUT",
+                "draft_position_rank": 3,
+                "current_position_rank": 11,
+                "differential": -8
+            },
+            {
+                "player": "Calvin Ridley",
+                "picking_team": "Team Free AB",
+                "injury_status": "OUT",
+                "draft_position_rank": 5,
+                "current_position_rank": 90,
+                "differential": -85
+            },
+            {
+                "player": "Darren Waller",
+                "picking_team": "Team Free AB",
+                "injury_status": "DOUBTFUL",
+                "draft_position_rank": 2,
+                "current_position_rank": 14,
+                "differential": -12
+            },
+            {
+                "player": "D'Andre Swift",
+                "picking_team": "Team Free AB",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 20,
+                "current_position_rank": 16,
+                "differential": 4
+            },
+            {
+                "player": "Mike Davis",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 22,
+                "current_position_rank": 35,
+                "differential": -13
+            },
+            {
+                "player": "Tom Brady",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 8,
+                "current_position_rank": 3,
+                "differential": 5
+            },
+            {
+                "player": "JuJu Smith-Schuster",
+                "picking_team": "Team Free AB",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 24,
+                "current_position_rank": 128,
+                "differential": -104
+            },
+            {
+                "player": "DeVonta Smith",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 31,
+                "current_position_rank": 32,
+                "differential": -1
+            },
+            {
+                "player": "Antonio Brown",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 35,
+                "current_position_rank": 60,
+                "differential": -25
+            },
+            {
+                "player": "Trey Sermon",
+                "picking_team": "Team Free AB",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 36,
+                "current_position_rank": 88,
+                "differential": -52
+            },
+            {
+                "player": "Jaylen Waddle",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 46,
+                "current_position_rank": 22,
+                "differential": 24
+            },
+            {
+                "player": "Jalen Hurts",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 12,
+                "current_position_rank": 6,
+                "differential": 6
+            },
+            {
+                "player": "Mike Gesicki",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 13,
+                "current_position_rank": 11,
+                "differential": 2
+            },
+            {
+                "player": "Colts D/ST",
+                "picking_team": "Team Free AB",
+                "injury_status": [],
+                "draft_position_rank": 9,
+                "current_position_rank": 3,
+                "differential": 6
+            },
+            {
+                "player": "Alexander Mattison",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 45,
+                "current_position_rank": 42,
+                "differential": 3
+            },
+            {
+                "player": "Ryan Succop",
+                "picking_team": "Team Free AB",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 11,
+                "current_position_rank": 18,
+                "differential": -7
+            }
+        ]
+    },
+    "TheMightyHokie FC": {
+        "sum": -39,
+        "avg": -2.4375,
+        "max": 30,
+        "min": -42,
+        "number of players on IR": 4,
+        "sum of healthy players": -60,
+        "avg of healthy players": -5,
+        "picks": [
+            {
+                "player": "Derrick Henry",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 4,
+                "current_position_rank": 9,
+                "differential": -5
+            },
+            {
+                "player": "DeAndre Hopkins",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 4,
+                "current_position_rank": 31,
+                "differential": -27
+            },
+            {
+                "player": "Miles Sanders",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 14,
+                "current_position_rank": 37,
+                "differential": -23
+            },
+            {
+                "player": "Patrick Mahomes",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 1,
+                "current_position_rank": 4,
+                "differential": -3
+            },
+            {
+                "player": "Gus Edwards",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 23,
+                "current_position_rank": 0,
+                "differential": 23
+            },
+            {
+                "player": "Mark Andrews",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 5,
+                "current_position_rank": 1,
+                "differential": 4
+            },
+            {
+                "player": "Diontae Johnson",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 25,
+                "current_position_rank": 10,
+                "differential": 15
+            },
+            {
+                "player": "Michael Thomas",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 30,
+                "current_position_rank": 0,
+                "differential": 30
+            },
+            {
+                "player": "Kenny Golladay",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 36,
+                "current_position_rank": 78,
+                "differential": -42
+            },
+            {
+                "player": "Harrison Butker",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "OUT",
+                "draft_position_rank": 1,
+                "current_position_rank": 9,
+                "differential": -8
+            },
+            {
+                "player": "Dallas Goedert",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 11,
+                "current_position_rank": 6,
+                "differential": 5
+            },
+            {
+                "player": "Ronald Jones II",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 40,
+                "current_position_rank": 62,
+                "differential": -22
+            },
+            {
+                "player": "Bills D/ST",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": [],
+                "draft_position_rank": 5,
+                "current_position_rank": 4,
+                "differential": 1
+            },
+            {
+                "player": "49ers D/ST",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": [],
+                "draft_position_rank": 8,
+                "current_position_rank": 14,
+                "differential": -6
+            },
+            {
+                "player": "Broncos D/ST",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": [],
+                "draft_position_rank": 11,
+                "current_position_rank": 7,
+                "differential": 4
+            },
+            {
+                "player": "Cole Beasley",
+                "picking_team": "TheMightyHokie FC",
+                "injury_status": "OUT",
+                "draft_position_rank": 58,
+                "current_position_rank": 43,
+                "differential": 15
+            }
+        ]
+    },
+    "Team Mahaarachchi": {
+        "sum": -41,
+        "avg": -2.5625,
+        "max": 35,
+        "min": -49,
+        "number of players on IR": 3,
+        "sum of healthy players": -36,
+        "avg of healthy players": -2.769230769230769,
+        "picks": [
+            {
+                "player": "Ezekiel Elliott",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 5,
+                "current_position_rank": 7,
+                "differential": -2
+            },
+            {
+                "player": "Stefon Diggs",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 3,
+                "current_position_rank": 8,
+                "differential": -5
+            },
+            {
+                "player": "A.J. Brown",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 9,
+                "current_position_rank": 30,
+                "differential": -21
+            },
+            {
+                "player": "Chris Carson",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 19,
+                "current_position_rank": 68,
+                "differential": -49
+            },
+            {
+                "player": "Amari Cooper",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 17,
+                "current_position_rank": 28,
+                "differential": -11
+            },
+            {
+                "player": "Justin Herbert",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 7,
+                "current_position_rank": 2,
+                "differential": 5
+            },
+            {
+                "player": "Chase Edmonds",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 25,
+                "current_position_rank": 44,
+                "differential": -19
+            },
+            {
+                "player": "Jonnu Smith",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 9,
+                "current_position_rank": 32,
+                "differential": -23
+            },
+            {
+                "player": "Deebo Samuel",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 37,
+                "current_position_rank": 2,
+                "differential": 35
+            },
+            {
+                "player": "Leonard Fournette",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 35,
+                "current_position_rank": 4,
+                "differential": 31
+            },
+            {
+                "player": "Matthew Stafford",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 10,
+                "current_position_rank": 5,
+                "differential": 5
+            },
+            {
+                "player": "Ravens D/ST",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": [],
+                "draft_position_rank": 3,
+                "current_position_rank": 27,
+                "differential": -24
+            },
+            {
+                "player": "Marquez Callaway",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 53,
+                "current_position_rank": 41,
+                "differential": 12
+            },
+            {
+                "player": "Tony Pollard",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 44,
+                "current_position_rank": 25,
+                "differential": 19
+            },
+            {
+                "player": "Greg Zuerlein",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 6,
+                "current_position_rank": 13,
+                "differential": -7
+            },
+            {
+                "player": "J.D. McKissic",
+                "picking_team": "Team Mahaarachchi",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 47,
+                "current_position_rank": 34,
+                "differential": 13
+            }
+        ]
+    },
+    "My 14th Reason Why": {
+        "sum": -317,
+        "avg": -19.8125,
+        "max": 11,
+        "min": -64,
+        "number of players on IR": 4,
+        "sum of healthy players": -263,
+        "avg of healthy players": -21.916666666666668,
+        "picks": [
+            {
+                "player": "Aaron Jones",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 6,
+                "current_position_rank": 10,
+                "differential": -4
+            },
+            {
+                "player": "Antonio Gibson",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 12,
+                "current_position_rank": 12,
+                "differential": 0
+            },
+            {
+                "player": "Kareem Hunt",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "OUT",
+                "draft_position_rank": 15,
+                "current_position_rank": 36,
+                "differential": -21
+            },
+            {
+                "player": "Robert Woods",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 14,
+                "current_position_rank": 36,
+                "differential": -22
+            },
+            {
+                "player": "Chris Godwin",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 18,
+                "current_position_rank": 7,
+                "differential": 11
+            },
+            {
+                "player": "Russell Wilson",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 6,
+                "current_position_rank": 23,
+                "differential": -17
+            },
+            {
+                "player": "Logan Thomas",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 7,
+                "current_position_rank": 36,
+                "differential": -29
+            },
+            {
+                "player": "Jerry Jeudy",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 29,
+                "current_position_rank": 93,
+                "differential": -64
+            },
+            {
+                "player": "Kenyan Drake",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 31,
+                "current_position_rank": 45,
+                "differential": -14
+            },
+            {
+                "player": "Michael Gallup",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 43,
+                "current_position_rank": 88,
+                "differential": -45
+            },
+            {
+                "player": "Nyheim Hines",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 37,
+                "current_position_rank": 48,
+                "differential": -11
+            },
+            {
+                "player": "Henry Ruggs III",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 51,
+                "current_position_rank": 70,
+                "differential": -19
+            },
+            {
+                "player": "Browns D/ST",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": [],
+                "draft_position_rank": 6,
+                "current_position_rank": 17,
+                "differential": -11
+            },
+            {
+                "player": "Jason Myers",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 4,
+                "current_position_rank": 27,
+                "differential": -23
+            },
+            {
+                "player": "Jason Sanders",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 7,
+                "current_position_rank": 22,
+                "differential": -15
+            },
+            {
+                "player": "Josh Lambo",
+                "picking_team": "My 14th Reason Why",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 10,
+                "current_position_rank": 43,
+                "differential": -33
+            }
+        ]
+    },
+    "Fanta Power": {
+        "sum": 100,
+        "avg": 6.25,
+        "max": 30,
+        "min": -8,
+        "number of players on IR": 0,
+        "sum of healthy players": 100,
+        "avg of healthy players": 6.25,
+        "picks": [
+            {
+                "player": "Davante Adams",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 1,
+                "current_position_rank": 5,
+                "differential": -4
+            },
+            {
+                "player": "Nick Chubb",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 11,
+                "current_position_rank": 14,
+                "differential": -3
+            },
+            {
+                "player": "Joe Mixon",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 16,
+                "current_position_rank": 3,
+                "differential": 13
+            },
+            {
+                "player": "George Kittle",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 3,
+                "current_position_rank": 3,
+                "differential": 0
+            },
+            {
+                "player": "Tyler Lockett",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 19,
+                "current_position_rank": 16,
+                "differential": 3
+            },
+            {
+                "player": "Lamar Jackson",
+                "picking_team": "Fanta Power",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 5,
+                "current_position_rank": 10,
+                "differential": -5
+            },
+            {
+                "player": "Tee Higgins",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 26,
+                "current_position_rank": 25,
+                "differential": 1
+            },
+            {
+                "player": "Darrell Henderson Jr.",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 29,
+                "current_position_rank": 20,
+                "differential": 9
+            },
+            {
+                "player": "Courtland Sutton",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 38,
+                "current_position_rank": 46,
+                "differential": -8
+            },
+            {
+                "player": "Brandin Cooks",
+                "picking_team": "Fanta Power",
+                "injury_status": "OUT",
+                "draft_position_rank": 42,
+                "current_position_rank": 15,
+                "differential": 27
+            },
+            {
+                "player": "Zack Moss",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 38,
+                "current_position_rank": 46,
+                "differential": -8
+            },
+            {
+                "player": "Michael Pittman Jr.",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 50,
+                "current_position_rank": 21,
+                "differential": 29
+            },
+            {
+                "player": "Devin Singletary",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 42,
+                "current_position_rank": 28,
+                "differential": 14
+            },
+            {
+                "player": "Darnell Mooney",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 56,
+                "current_position_rank": 26,
+                "differential": 30
+            },
+            {
+                "player": "Patriots D/ST",
+                "picking_team": "Fanta Power",
+                "injury_status": [],
+                "draft_position_rank": 12,
+                "current_position_rank": 2,
+                "differential": 10
+            },
+            {
+                "player": "Brandon McManus",
+                "picking_team": "Fanta Power",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 9,
+                "current_position_rank": 17,
+                "differential": -8
+            }
+        ]
+    },
+    "me-Najee Trois": {
+        "sum": -296,
+        "avg": -18.5,
+        "max": 35,
+        "min": -129,
+        "number of players on IR": 2,
+        "sum of healthy players": -93,
+        "avg of healthy players": -6.642857142857143,
+        "picks": [
+            {
+                "player": "Saquon Barkley",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 7,
+                "current_position_rank": 33,
+                "differential": -26
+            },
+            {
+                "player": "Najee Harris",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 10,
+                "current_position_rank": 6,
+                "differential": 4
+            },
+            {
+                "player": "Keenan Allen",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 10,
+                "current_position_rank": 11,
+                "differential": -1
+            },
+            {
+                "player": "Allen Robinson II",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "OUT",
+                "draft_position_rank": 13,
+                "current_position_rank": 85,
+                "differential": -72
+            },
+            {
+                "player": "Kyler Murray",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 3,
+                "current_position_rank": 11,
+                "differential": -8
+            },
+            {
+                "player": "Kyle Pitts",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 4,
+                "current_position_rank": 8,
+                "differential": -4
+            },
+            {
+                "player": "Robby Anderson",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 27,
+                "current_position_rank": 51,
+                "differential": -24
+            },
+            {
+                "player": "Damien Harris",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 28,
+                "current_position_rank": 22,
+                "differential": 6
+            },
+            {
+                "player": "AJ Dillon",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 32,
+                "current_position_rank": 23,
+                "differential": 9
+            },
+            {
+                "player": "Ja'Marr Chase",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 41,
+                "current_position_rank": 6,
+                "differential": 35
+            },
+            {
+                "player": "William Fuller V",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 47,
+                "current_position_rank": 176,
+                "differential": -129
+            },
+            {
+                "player": "DJ Chark Jr.",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 49,
+                "current_position_rank": 123,
+                "differential": -74
+            },
+            {
+                "player": "Rams D/ST",
+                "picking_team": "me-Najee Trois",
+                "injury_status": [],
+                "draft_position_rank": 7,
+                "current_position_rank": 18,
+                "differential": -11
+            },
+            {
+                "player": "Michael Carter",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 43,
+                "current_position_rank": 28,
+                "differential": 15
+            },
+            {
+                "player": "Graham Gano",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 8,
+                "current_position_rank": 14,
+                "differential": -6
+            },
+            {
+                "player": "Trevor Lawrence",
+                "picking_team": "me-Najee Trois",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 15,
+                "current_position_rank": 25,
+                "differential": -10
+            }
+        ]
+    },
+    "Bishop Sycamore JV": {
+        "sum": -149,
+        "avg": -9.3125,
+        "max": 29,
+        "min": -77,
+        "number of players on IR": 1,
+        "sum of healthy players": -133,
+        "avg of healthy players": -8.866666666666667,
+        "picks": [
+            {
+                "player": "Jonathan Taylor",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 8,
+                "current_position_rank": 1,
+                "differential": 7
+            },
+            {
+                "player": "Tyreek Hill",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "OUT",
+                "draft_position_rank": 2,
+                "current_position_rank": 4,
+                "differential": -2
+            },
+            {
+                "player": "CeeDee Lamb",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 11,
+                "current_position_rank": 12,
+                "differential": -1
+            },
+            {
+                "player": "David Montgomery",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 18,
+                "current_position_rank": 27,
+                "differential": -9
+            },
+            {
+                "player": "Julio Jones",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 20,
+                "current_position_rank": 97,
+                "differential": -77
+            },
+            {
+                "player": "Dak Prescott",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 4,
+                "current_position_rank": 12,
+                "differential": -8
+            },
+            {
+                "player": "Javonte Williams",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 26,
+                "current_position_rank": 15,
+                "differential": 11
+            },
+            {
+                "player": "Noah Fant",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 8,
+                "current_position_rank": 15,
+                "differential": -7
+            },
+            {
+                "player": "Tyler Boyd",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 39,
+                "current_position_rank": 33,
+                "differential": 6
+            },
+            {
+                "player": "James Conner",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 34,
+                "current_position_rank": 5,
+                "differential": 29
+            },
+            {
+                "player": "Jarvis Landry",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 48,
+                "current_position_rank": 65,
+                "differential": -17
+            },
+            {
+                "player": "Steelers D/ST",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": [],
+                "draft_position_rank": 2,
+                "current_position_rank": 20,
+                "differential": -18
+            },
+            {
+                "player": "Justin Tucker",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 2,
+                "current_position_rank": 3,
+                "differential": -1
+            },
+            {
+                "player": "Jalen Reagor",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 55,
+                "current_position_rank": 92,
+                "differential": -37
+            },
+            {
+                "player": "DeVante Parker",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 57,
+                "current_position_rank": 66,
+                "differential": -9
+            },
+            {
+                "player": "Jameis Winston",
+                "picking_team": "Bishop Sycamore JV",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 14,
+                "current_position_rank": 30,
+                "differential": -16
+            }
+        ]
+    },
+    "Melvin Gordon Redemption": {
+        "sum": -205,
+        "avg": -12.8125,
+        "max": 27,
+        "min": -116,
+        "number of players on IR": 1,
+        "sum of healthy players": -89,
+        "avg of healthy players": -5.933333333333334,
+        "picks": [
+            {
+                "player": "Austin Ekeler",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "OUT",
+                "draft_position_rank": 9,
+                "current_position_rank": 2,
+                "differential": 7
+            },
+            {
+                "player": "Travis Kelce",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "OUT",
+                "draft_position_rank": 1,
+                "current_position_rank": 2,
+                "differential": -1
+            },
+            {
+                "player": "Clyde Edwards-Helaire",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 17,
+                "current_position_rank": 38,
+                "differential": -21
+            },
+            {
+                "player": "Mike Evans",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "OUT",
+                "draft_position_rank": 12,
+                "current_position_rank": 9,
+                "differential": 3
+            },
+            {
+                "player": "Odell Beckham Jr.",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 21,
+                "current_position_rank": 61,
+                "differential": -40
+            },
+            {
+                "player": "DJ Moore",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "QUESTIONABLE",
+                "draft_position_rank": 22,
+                "current_position_rank": 17,
+                "differential": 5
+            },
+            {
+                "player": "Chase Claypool",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 28,
+                "current_position_rank": 39,
+                "differential": -11
+            },
+            {
+                "player": "Raheem Mostert",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "INJURY_RESERVE",
+                "draft_position_rank": 27,
+                "current_position_rank": 143,
+                "differential": -116
+            },
+            {
+                "player": "Mike Williams",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 40,
+                "current_position_rank": 13,
+                "differential": 27
+            },
+            {
+                "player": "Melvin Gordon III",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 33,
+                "current_position_rank": 18,
+                "differential": 15
+            },
+            {
+                "player": "Ryan Tannehill",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 11,
+                "current_position_rank": 13,
+                "differential": -2
+            },
+            {
+                "player": "Jamaal Williams",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 39,
+                "current_position_rank": 49,
+                "differential": -10
+            },
+            {
+                "player": "Younghoe Koo",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 3,
+                "current_position_rank": 19,
+                "differential": -16
+            },
+            {
+                "player": "Mecole Hardman",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 54,
+                "current_position_rank": 62,
+                "differential": -8
+            },
+            {
+                "player": "Panthers D/ST",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": [],
+                "draft_position_rank": 13,
+                "current_position_rank": 18,
+                "differential": -5
+            },
+            {
+                "player": "Justin Jackson",
+                "picking_team": "Melvin Gordon Redemption",
+                "injury_status": "ACTIVE",
+                "draft_position_rank": 46,
+                "current_position_rank": 78,
+                "differential": -32
+            }
+        ]
+    }
+}

@@ -1,7 +1,11 @@
-from draft_parse import get_draft_data
-from draft_rank import generate_position_ranks
+from api import LeagueAPI
+import json
 
 if __name__ == "__main__":
-    draft_picks = get_draft_data("data/2021")
-    ranks = generate_position_ranks(draft_picks)
-    print(ranks)
+    config = json.load(open("config/npffl.json"))
+    league = LeagueAPI(config)
+    draft_diffs = league.get_draft_differentials()
+    scores = league.get_draft_scores(draft_diffs)
+    print(scores)
+    
+    
